@@ -16,7 +16,7 @@ spec:
     spec:
       containers:
       - name: springboot-app
-        image: hanvitha/mycourse
+        image: hanvitha/myapp-book-store
         ports:
         - containerPort: 8080
 ---
